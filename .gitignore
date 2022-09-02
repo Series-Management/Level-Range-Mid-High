@@ -1,0 +1,11 @@
+.idea/
+/tests/behat.yml
+/tests/.phpunit.result.cache
+/vendor/
+/node_modules/
+/public/assets/*
+*.cache
+*.phar
+.ddev
+/public/*.mustache
+/database/structure/update*.sql

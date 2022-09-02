@@ -1,0 +1,9 @@
+<?php declare(strict_types=1);
+
+return [
+    'session' => [
+        'name' => 'series_management',
+        'remember_me_seconds' => 3600,
+        'gc_maxlifetime' => 86400,
+    ],
+];

@@ -1,0 +1,12 @@
+<?php declare(strict_types=1);
+
+return [
+    'database' => [
+        'host' => 'ddev-Level-Range-Mid-High-db',
+        'port' => '3306',
+        'user' => 'db',
+        'password' => 'db',
+        'name' => 'db',
+        'error' => PDO::ERRMODE_EXCEPTION,
+    ]
+];
